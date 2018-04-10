@@ -3,7 +3,7 @@
 
 ![](https://github.com/gecko655/GitHub-ForceRender/blob/master/images/1.png)
 
-Google Chrome plug-in to force render imgs and other not-initially-rendered files (such as markdowns) in commit and PR pages
+Google Chrome plug-in to force render **ALL** imgs and **ALL** other not-initially-rendered files (such as markdowns) in commit and PR pages
 
 ### Install
 
