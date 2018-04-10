@@ -5,7 +5,8 @@ chrome.runtime.onInstalled.addListener(function(){
     documentUrlPatterns: [
         "https://github.com/*/*/pull/*/files",
         "https://github.com/*/*/pull/*/commits/*",
-        "https://github.com/*/*/commit/*/files"
+        "https://github.com/*/*/commit/*/files",
+        "https://github.com/*/*/compare/*"
       ]
     }
   );

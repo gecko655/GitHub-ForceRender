@@ -17,7 +17,8 @@
     "matches": [
       "https://github.com/*/*/commit/*/files",
       "https://github.com/*/*/pull/*/commits/*",
-      "https://github.com/*/*/pull/*/files"
+      "https://github.com/*/*/pull/*/files",
+      "https://github.com/*/*/compare/*"
     ],
     "js": [
       "jquery-3.2.1.min.js",
