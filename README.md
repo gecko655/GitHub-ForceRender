@@ -6,7 +6,7 @@
 Google Chrome plug-in to force render **ALL** imgs and **ALL** other not-initially-rendered files (such as markdowns) in commit and PR pages
 
 ### Install
-
+[https://chrome.google.com/webstore/detail/github-force-render/cnefmopgfanadpmlkmpcklnmanpaejhi](https://chrome.google.com/webstore/detail/github-force-render/cnefmopgfanadpmlkmpcklnmanpaejhi?fromGitHub)
 ### Usage
 
 This plug-in works on the pages if the URL matches either of these patterns:
