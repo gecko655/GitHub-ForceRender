@@ -5,7 +5,7 @@
   "author": "gecko655",
   "manifest_version": 2,
 
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "background": {
     "persistent": false,
     "scripts": [
@@ -15,9 +15,8 @@
   },
   "content_scripts": [{
     "matches": [
-      "https://github.com/*/*/commit/*/files",
-      "https://github.com/*/*/pull/*/commits/*",
-      "https://github.com/*/*/pull/*/files",
+      "https://github.com/*/*/commit/*",
+      "https://github.com/*/*/pull/*",
       "https://github.com/*/*/compare/*"
     ],
     "js": [
